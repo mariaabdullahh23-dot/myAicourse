@@ -1,0 +1,16 @@
+Hospital_ID,Hospital_Name,City,Total_Beds,Occupied_Beds,Available_Beds,ICU_Beds,Occupied_ICU_Beds,Available_ICU_Beds,Department,Emergency_Available
+H001,CityCare Hospital,Lahore,150,120,30,20,15,5,Cardiology,Yes
+H002,GreenValley Medical Center,Karachi,200,180,20,25,22,3,Orthopedics,Yes
+H003,Sunrise Health Clinic,Islamabad,80,60,20,10,6,4,Pediatrics,No
+H004,Hope General Hospital,Faisalabad,250,240,10,30,28,2,Neurology,Yes
+H005,Al-Shifa Hospital,Lahore,180,150,30,20,18,2,Oncology,No
+H006,LifeLine Hospital,Multan,100,70,30,15,10,5,Dermatology,Yes
+H007,PeaceCare Hospital,Rawalpindi,120,90,30,18,14,4,Cardiology,Yes
+H008,National Health Institute,Peshawar,300,260,40,35,30,5,General Surgery,Yes
+H009,Wellness Hospital,Quetta,90,70,20,12,9,3,Orthopedics,No
+H010,FamilyCare Medical,Lahore,110,95,15,14,13,1,Gynecology,Yes
+H011,Prime Medical Center,Karachi,160,145,15,20,19,1,Pediatrics,Yes
+H012,Faith Hospital,Islamabad,140,110,30,16,12,4,Oncology,No
+H013,Madina Health Point,Faisalabad,130,100,30,15,11,4,Cardiology,Yes
+H014,SehatCare Clinic,Multan,70,55,15,8,6,2,Dermatology,No
+H015,Humanity Hospital,Peshawar,220,190,30,25,23,2,Neurology,Yes
